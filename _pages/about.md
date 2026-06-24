@@ -2,33 +2,28 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://physics.mit.edu'>Department of Physics, Massachusetts Institute of Technology</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://physics.mit.edu'>Department of Physics, Massachusetts Institute of Technology</a>. <i>Mens et Manus<i>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: new_headshot.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, my name is Michael Zengel, and I am currently pursuing my Ph.D. in Physics at the Massachusetts Institute of Technology. More specifically, I work in the [Gedik Lab](https://web.mit.edu/gediklab/index.html). I study ultrafast surface dynamics of various materials using Time- and Angle-Resolved Photoemission Spectroscopy (tr-ARPES) and Momentum Microscopy.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Previously, I received by B.S. in Physics and Math from the University of Alabama in 2025. While there, the bulk of my research was in the [Hauser Lab](https://sites.ua.edu/hauserlab/) where I used Density Functional Theory to predict the material properties of Heusler Alloys. I also performed X-Ray Diffraction and Reflection measurements on thin film Heuslers.

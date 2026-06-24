@@ -186,15 +186,15 @@ newsletter:
 
 collections:
   books:
-    output: true
+    output: false
   news:
     defaults:
       layout: post
-    output: true
+    output: false
   projects:
-    output: true
+    output: false
   teachings:
-    output: true
+    output: false
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -239,6 +239,7 @@ exclude:
   - gems/
   - migrations/
   - vendor
+  - old_pages/
 keep_files:
   - CNAME
   - .nojekyll
@@ -362,6 +363,8 @@ scholar:
   details_link: Details
 
   query: "@*"
+  sort_by: year,month
+  order: descending
   group_by: year
   group_order: descending
 
@@ -397,6 +400,7 @@ filtered_bibtex_keywords:
     pmid,
     poster,
     preview,
+    preprint,
     selected,
     slides,
     supp,
