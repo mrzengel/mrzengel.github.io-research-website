@@ -13,6 +13,13 @@ nav_order: 2
 
 {% include bib_search.liquid %}
 
+<div style="margin-bottom: 1.5rem;">
+  <a href="https://orcid.org/0009-0005-0221-850X" target="_blank" rel="noopener noreferrer"
+     style="display:inline-flex; align-items:center; gap:0.4rem; padding:0.35rem 0.75rem; border:1px solid #a6ce39; border-radius:4px; color:#a6ce39; font-size:0.9rem; text-decoration:none;">
+    <i class="ai ai-orcid" style="font-size:1.1rem;"></i> 0009-0005-0221-850X
+  </a>
+</div>
+
 <div class="publications">
 
 <h2 class="year">Submitted</h2>

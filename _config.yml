@@ -29,8 +29,8 @@ back_to_top: true # set to false to disable the back to top button
 # -----------------------------------------------------------------------------
 
 # repo color theme
-repo_theme_light: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
-repo_theme_dark: dark # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_theme_light: gruvbox_light # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_theme_dark: tokyonight # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_trophies:
   enabled: true
   theme_light: flat # https://github.com/ryo-ma/github-profile-trophy
@@ -240,6 +240,7 @@ exclude:
   - migrations/
   - vendor
   - old_pages/
+  - _pages/involvement
 keep_files:
   - CNAME
   - .nojekyll
