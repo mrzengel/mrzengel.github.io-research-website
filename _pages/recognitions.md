@@ -141,22 +141,6 @@ nav_order: 4
     </tbody>
   </table>
 
-  <h2>Academic Honors</h2>
-  <table class="table table-sm table-borderless">
-    <tbody>
-      <tr>
-        <td class="recognition-year">2021–2025</td>
-        <td class="recognition-title">President's List (every semester)</td>
-        <td class="recognition-org">University of Alabama</td>
-      </tr>
-      <tr>
-        <td class="recognition-year">2025</td>
-        <td class="recognition-title">Graduated Summa Cum Laude, GPA 4.0/4.0</td>
-        <td class="recognition-org">University of Alabama</td>
-      </tr>
-    </tbody>
-  </table>
-
 </div>
 
 <style>
