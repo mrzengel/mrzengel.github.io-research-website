@@ -22,9 +22,6 @@ nav_order: 2
 
 <div class="publications">
 
-<h2 class="year">Submitted</h2>
-
-{% bibliography --query @*[preprint=true] %}
 
 <h2 class="year">Published</h2>
 
