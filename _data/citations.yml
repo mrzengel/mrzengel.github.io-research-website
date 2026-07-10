@@ -1,27 +1,59 @@
 metadata:
-  last_updated: '2026-06-24'
+  last_updated: '2026-07-10'
 papers:
-  andersCoherentControlPhotocurrents2025:
+  G2BeX4gAAAAJ:2osOgNQ5qMEC:
+    citations: 6
+    title: 'Atomic ordering and electronic structure of A2YSn Heusler alloys: A first-principles study'
+    year: '2025'
+  G2BeX4gAAAAJ:9yKSN-GCB0IC:
     citations: 0
+    title: 'The 4-2 rule: The (Proposed) Answer to Heusler Alloys, Stability, and (Ordering) Everything'
+    year: '2024'
+  G2BeX4gAAAAJ:IjCSPb-OGe4C:
+    citations: 0
+    title: Bilinear and biquadratic interlayer exchange coupling in asymmetric Co65Fe35 films with interrupting Ru pseudolayer
+    year: '2025'
+  G2BeX4gAAAAJ:Tyk-4Ss8FVUC:
+    citations: 1
     title: Coherent Control of Photocurrents in Germanium for Gapless and Broadband Terahertz Emission
     year: '2025'
-  karkiBilinearBiquadraticInterlayer2025:
+  G2BeX4gAAAAJ:UeHWp8X0CEIC:
     citations: 0
-    title: Bilinear and Biquadratic Interlayer Exchange Coupling in Asymmetric Co65Fe35 Films with Interrupting Ru Pseudolayer
-    year: '2025'
-  lawPhaseDdHybridization2024:
+    title: Bilinear and Biquadratic Interlayer Exchange Coupling in Asymmetricco65fe35/Ru/Co65fe35 Heterostructures
+    year: Unknown Year
+  G2BeX4gAAAAJ:W7OEmFMy1HYC:
     citations: 0
-    title: Phase and D-d Hybridization Control via Electron Count for Material Property Control in the X2FeAl Material Class
+    title: Development of a Zenodo Jupyter Lab Extension
     year: '2024'
-  Nahar42Rule2025:
+  G2BeX4gAAAAJ:Y0pCki6q_DkC:
     citations: 0
-    title: "The 4-2 Rule: The (Proposed) Answer to Heusler Alloys, Stability, and (Ordering) Everything"
+    title: 'arXiv: Data discovery, analysis and reproducibility in Virtual Research Environments'
     year: '2025'
-  naharDatasetDensityFunctional2024:
+  G2BeX4gAAAAJ:YsMSGLbcyi4C:
     citations: 0
-    title: Dataset on Density Functional Theory Investigation of Ternary Heusler Alloys
+    title: Data discovery, analysis and reproducibility in Virtual Research Environments
+    year: '2025'
+  G2BeX4gAAAAJ:d1gkVwhDpl0C:
+    citations: 0
+    title: First-principles calculations to investigate stability and electronic properties of ferromagnetic (anti-ferromagnetic) semiconducting Heusler alloys Cr2YSi (Cr2YAl)
+    year: '2023'
+  G2BeX4gAAAAJ:eQOLeE2rZwMC:
+    citations: 0
+    title: 'The 4-2 rule: The (proposed) answer to Heusler alloys, stability, and (ordering) everything'
+    year: '2026'
+  G2BeX4gAAAAJ:qjMakFHDy7sC:
+    citations: 3
+    title: Phase and dd hybridization control via electron count for material property control in the X2FeAl material class
     year: '2024'
-  zengelAtomicOrderingElectronic2025:
+  G2BeX4gAAAAJ:u-x6o8ySG0sC:
     citations: 0
-    title: "Atomic Ordering and Electronic Structure of A2YSn Heusler Alloys: A First-Principles Study"
-    year: '2025'
+    title: Electronic Properties and Phase Stability of Full and Inverse Heusler X2FeAl (X=20 transition metal elements) by First-Principle Calculations
+    year: '2023'
+  G2BeX4gAAAAJ:u5HHmVD_uO8C:
+    citations: 6
+    title: Dataset on density functional theory investigation of ternary Heusler alloys
+    year: '2024'
+  G2BeX4gAAAAJ:zYLM7Y9cAGgC:
+    citations: 0
+    title: Coherent optical nonlinearities in model type-II heterostructures
+    year: '2024'
